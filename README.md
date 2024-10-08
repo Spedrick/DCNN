@@ -27,7 +27,7 @@ An implementation of [Diffusion-Convolutional Neural Networks](http://papers.nip
 
 # Contributors
 
-## 1. [Yuvraj Kumar | 2021IMG-066](https://github.com/Spedrick)
+1. [Yuvraj Kumar | 2021IMG-066](https://github.com/Spedrick)
 
 
 # References
