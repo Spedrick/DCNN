@@ -28,6 +28,8 @@ An implementation of [Diffusion-Convolutional Neural Networks](http://papers.nip
 # Contributors
 
 1. [Yuvraj Kumar | 2021IMG-066](https://github.com/Spedrick)
+2. [Aman Tripathi | 2021IMG-005](https://github.com/meMANNY)
+ 
 
 
 # References
