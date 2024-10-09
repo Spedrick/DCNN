@@ -30,6 +30,7 @@ An implementation of [Diffusion-Convolutional Neural Networks](http://papers.nip
 1. [Yuvraj Kumar | 2021IMG-066](https://github.com/Spedrick)
 2. [Aman Tripathi | 2021IMG-005](https://github.com/meMANNY)
 3. [Aakarshit Doda | 2021IMG-001](https://github.com/Aakarshit01)
+4. [Aradhya Srivastava](https://github.com/AradhyaS2003)
 
 
 
